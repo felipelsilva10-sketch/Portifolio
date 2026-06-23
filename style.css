@@ -163,3 +163,10 @@ footer div img{
 header:hover{
     background-color: rgb(153, 134, 236);
 }
+.btn-project:hover{
+    padding: 12px 28px;
+}
+.btn-ghost:hover{
+    background-color: #9986EC;
+    padding: 12px 28px;
+}
